@@ -3,4 +3,15 @@
 1. Clone a Project
     git clone <project_url>
 
-2. 
+2. Check the status of change
+    git status 
+
+3. Add change files to the git 
+    git add .
+
+4. Add commit message
+    git commit -m "message"
+
+5. Push the change 
+    git push -u origin main
+
