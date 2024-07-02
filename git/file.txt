@@ -1,0 +1,6 @@
+## GIT Commands ##
+
+1. Clone a Project
+    git clone <project_url>
+
+2. 
