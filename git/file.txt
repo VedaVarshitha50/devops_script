@@ -15,3 +15,12 @@
 5. Push the change 
     git push -u origin <branch_name>
 
+6. Create a Branch and checkout to branch
+    git checkout -b <branch_name>
+
+7. To check in which branch we are currently
+    git branch
+ 
+8. To switch between branches
+    git checkout <branch_name_to be created>
+
