@@ -24,5 +24,10 @@
 8. To switch between branches
     git checkout <branch_name_to be created>
 
+9. to create a new commit that undoes the changes made by a previous commit
+    git revert <commit_id>
+
+    
+
 
 
